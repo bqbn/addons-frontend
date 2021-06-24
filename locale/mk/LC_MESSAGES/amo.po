@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: amo\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-06-15 16:03+0000\n"
+"POT-Creation-Date: 2021-06-24 13:58+0000\n"
 "PO-Revision-Date: 2020-01-06 09:08+0000\n"
 "Last-Translator: Matej Plavevski <matej.plavevski@gmail.com>\n"
 "Language-Team: none\n"
@@ -732,7 +732,7 @@ msgid "Back to collection"
 msgstr "Најавете се за да го оцените овој речник"
 
 #: src/amo/components/CollectionDetails/index.js:85
-#: src/amo/components/Footer/index.js:64
+#: src/amo/components/Footer/index.js:58
 msgid "Add-ons"
 msgstr ""
 
@@ -1074,81 +1074,77 @@ msgstr ""
 msgid "This contains inappropriate language"
 msgstr ""
 
-#: src/amo/components/Footer/index.js:109
+#: src/amo/components/Footer/index.js:101
 msgid "Developer Policies"
 msgstr ""
 
-#: src/amo/components/Footer/index.js:124
-msgid "Developer Blog"
+#: src/amo/components/Footer/index.js:115
+msgid "Community Blog"
 msgstr ""
 
-#: src/amo/components/Footer/index.js:130
+#: src/amo/components/Footer/index.js:120
 msgid "Forum"
 msgstr "Форум"
 
-#: src/amo/components/Footer/index.js:138
+#: src/amo/components/Footer/index.js:128
 msgid "Report a bug"
 msgstr "Пријавете грешка"
 
-#: src/amo/components/Footer/index.js:143
+#: src/amo/components/Footer/index.js:133
 msgid "Review Guide"
 msgstr ""
 
-#: src/amo/components/Footer/index.js:148
+#: src/amo/components/Footer/index.js:138
 msgid "Site Status"
 msgstr ""
 
-#: src/amo/components/Footer/index.js:155
+#: src/amo/components/Footer/index.js:145
 msgid "Browsers"
 msgstr ""
 
-#: src/amo/components/Footer/index.js:213
+#: src/amo/components/Footer/index.js:203
 msgid "Products"
 msgstr ""
 
-#: src/amo/components/Footer/index.js:289
+#: src/amo/components/Footer/index.js:279
 msgid "Privacy"
 msgstr "Приватност"
 
-#: src/amo/components/Footer/index.js:297
+#: src/amo/components/Footer/index.js:287
 msgid "Cookies"
 msgstr "Колачиња"
 
-#: src/amo/components/Footer/index.js:305
+#: src/amo/components/Footer/index.js:295
 msgid "Legal"
 msgstr "Правна напомена"
 
-#: src/amo/components/Footer/index.js:315
+#: src/amo/components/Footer/index.js:305
 msgid ""
 "Except where otherwise %(startNotedLink)snoted%(endNotedLink)s, content on "
 "this site is licensed under the %(startLicenseLink)sCreative Commons "
 "Attribution Share-Alike License v3.0%(endLicenseLink)s or any later version."
 msgstr ""
 
-#: src/amo/components/Footer/index.js:39
+#: src/amo/components/Footer/index.js:37
 msgid "Go to Mozilla's homepage"
 msgstr "Одете на почетната страница на Mozilla"
 
-#: src/amo/components/Footer/index.js:69
+#: src/amo/components/Footer/index.js:63
 msgid "About"
 msgstr "За"
 
-#: src/amo/components/Footer/index.js:75
-#: src/amo/components/SectionLinks/index.js:121
+#: src/amo/components/Footer/index.js:68
+#: src/amo/components/SectionLinks/index.js:108
 #, fuzzy
 msgid "Firefox Add-on Reviews"
 msgstr "Додатоци за Firefox"
 
-#: src/amo/components/Footer/index.js:76
-msgid "Blog"
-msgstr "Блог"
-
-#: src/amo/components/Footer/index.js:89 src/amo/components/Header/index.js:206
+#: src/amo/components/Footer/index.js:81 src/amo/components/Header/index.js:206
 #, fuzzy
 msgid "Extension Workshop"
 msgstr "Проширување"
 
-#: src/amo/components/Footer/index.js:94 src/amo/components/Header/index.js:216
+#: src/amo/components/Footer/index.js:86 src/amo/components/Header/index.js:216
 msgid "Developer Hub"
 msgstr ""
 
@@ -1157,44 +1153,44 @@ msgid ""
 "To use these add-ons, you'll need to %(linkStart)sdownload Firefox%(linkEnd)s"
 msgstr ""
 
-#: src/amo/components/GetFirefoxButton/index.js:172
+#: src/amo/components/GetFirefoxButton/index.js:167
 #, fuzzy
 msgid "Download Firefox and get the theme"
 msgstr "Преземете Firefox"
 
-#: src/amo/components/GetFirefoxButton/index.js:173
+#: src/amo/components/GetFirefoxButton/index.js:168
 msgid "Download Firefox and get the extension"
 msgstr ""
 
-#: src/amo/components/GetFirefoxButton/index.js:177
+#: src/amo/components/GetFirefoxButton/index.js:172
 #, fuzzy
 msgid "Download the new Firefox and get the theme"
 msgstr "Преземете Firefox"
 
-#: src/amo/components/GetFirefoxButton/index.js:178
+#: src/amo/components/GetFirefoxButton/index.js:173
 #, fuzzy
 msgid "Download the new Firefox and get the extension"
 msgstr "Преземете Firefox"
 
-#: src/amo/components/GetFirefoxButton/index.js:182
+#: src/amo/components/GetFirefoxButton/index.js:177
 msgid "Download Firefox"
 msgstr "Преземете Firefox"
 
-#: src/amo/components/GetFirefoxButton/index.js:185
+#: src/amo/components/GetFirefoxButton/index.js:180
 #, fuzzy
 msgid "You'll need Firefox to use this theme"
 msgstr "Најавете се за да ја оцените оваа тема"
 
-#: src/amo/components/GetFirefoxButton/index.js:186
+#: src/amo/components/GetFirefoxButton/index.js:181
 msgid "You'll need Firefox to use this extension"
 msgstr ""
 
-#: src/amo/components/GetFirefoxButton/index.js:190
+#: src/amo/components/GetFirefoxButton/index.js:185
 #, fuzzy
 msgid "You need an updated version of Firefox for this theme"
 msgstr "Најавете се за да ја оцените оваа тема"
 
-#: src/amo/components/GetFirefoxButton/index.js:191
+#: src/amo/components/GetFirefoxButton/index.js:186
 msgid "You need an updated version of Firefox for this extension"
 msgstr ""
 
@@ -1325,7 +1321,7 @@ msgstr ""
 msgid "OK"
 msgstr "Во ред"
 
-#: src/amo/components/InstallButtonWrapper/index.js:145
+#: src/amo/components/InstallButtonWrapper/index.js:142
 #, fuzzy
 msgid "Download file"
 msgstr "Преземам"
@@ -1927,49 +1923,49 @@ msgstr "Не се пронајдени резултати за \"%(query)s\"."
 msgid "No results were found."
 msgstr "Не беа најдени резултати."
 
-#: src/amo/components/SectionLinks/index.js:104
-msgid "Dictionaries & Language Packs"
-msgstr ""
-
-#: src/amo/components/SectionLinks/index.js:147
+#: src/amo/components/SectionLinks/index.js:133
 msgid "Explore"
 msgstr "Истражи"
 
-#: src/amo/components/SectionLinks/index.js:163
+#: src/amo/components/SectionLinks/index.js:149
 #: src/amo/pages/CategoryPage/index.js:66
 #: src/amo/pages/LandingPage/index.js:231
 msgid "Extensions"
 msgstr "Проширувања"
 
-#: src/amo/components/SectionLinks/index.js:179
+#: src/amo/components/SectionLinks/index.js:165
 #: src/amo/pages/CategoryPage/index.js:60
 #: src/amo/pages/LandingPage/index.js:230
 msgid "Themes"
 msgstr "Теми"
 
-#: src/amo/components/SectionLinks/index.js:185
+#: src/amo/components/SectionLinks/index.js:171
 msgid "More…"
 msgstr "Повеќе…"
 
-#: src/amo/components/SectionLinks/index.js:195
+#: src/amo/components/SectionLinks/index.js:181
 msgid "Other Browser Sites"
 msgstr ""
 
-#: src/amo/components/SectionLinks/index.js:206
+#: src/amo/components/SectionLinks/index.js:192
 msgid "Add-ons for Android"
 msgstr ""
 
-#: src/amo/components/SectionLinks/index.js:219
+#: src/amo/components/SectionLinks/index.js:205
 msgid "Add-ons for Firefox"
 msgstr "Додатоци за Firefox"
 
-#: src/amo/components/SectionLinks/index.js:87
+#: src/amo/components/SectionLinks/index.js:76
 msgid "for Firefox"
 msgstr "за Firefox"
 
-#: src/amo/components/SectionLinks/index.js:89
+#: src/amo/components/SectionLinks/index.js:78
 msgid "for Android"
 msgstr "за Android"
+
+#: src/amo/components/SectionLinks/index.js:93
+msgid "Dictionaries & Language Packs"
+msgstr ""
 
 #: src/amo/components/ShowMoreCard/index.js:128
 msgid "Expand to read more"
@@ -3181,6 +3177,9 @@ msgstr ""
 #: src/amo/utils/notifications.js:26
 msgid "my add-on's compatibility is upgraded successfully"
 msgstr ""
+
+#~ msgid "Blog"
+#~ msgstr "Блог"
 
 #~ msgid ""
 #~ "Your browser does not support add-ons. You can <a href=\"%(downloadUrl)s"

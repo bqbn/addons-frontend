@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: amo\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-06-15 16:03+0000\n"
+"POT-Creation-Date: 2021-06-24 13:58+0000\n"
 "PO-Revision-Date: 2021-06-09 16:50+0000\n"
 "Last-Translator: Grk <gu0townkg@relay.firefox.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -690,7 +690,7 @@ msgid "Back to collection"
 msgstr "Koleksiyona dön"
 
 #: src/amo/components/CollectionDetails/index.js:85
-#: src/amo/components/Footer/index.js:64
+#: src/amo/components/Footer/index.js:58
 msgid "Add-ons"
 msgstr "Eklentiler"
 
@@ -1070,51 +1070,51 @@ msgstr "Spam olarak işaretlendi"
 msgid "This contains inappropriate language"
 msgstr "Bu uygunsuz bir dil içeriyor"
 
-#: src/amo/components/Footer/index.js:109
+#: src/amo/components/Footer/index.js:101
 msgid "Developer Policies"
 msgstr "Geliştirici Politikaları"
 
-#: src/amo/components/Footer/index.js:124
-msgid "Developer Blog"
-msgstr "Geliştirici Blog’u"
+#: src/amo/components/Footer/index.js:115
+msgid "Community Blog"
+msgstr ""
 
-#: src/amo/components/Footer/index.js:130
+#: src/amo/components/Footer/index.js:120
 msgid "Forum"
 msgstr "Forum"
 
-#: src/amo/components/Footer/index.js:138
+#: src/amo/components/Footer/index.js:128
 msgid "Report a bug"
 msgstr "Hata bildir"
 
-#: src/amo/components/Footer/index.js:143
+#: src/amo/components/Footer/index.js:133
 msgid "Review Guide"
 msgstr "İnceleme rehberi"
 
-#: src/amo/components/Footer/index.js:148
+#: src/amo/components/Footer/index.js:138
 msgid "Site Status"
 msgstr "Site durumu"
 
-#: src/amo/components/Footer/index.js:155
+#: src/amo/components/Footer/index.js:145
 msgid "Browsers"
 msgstr "Tarayıcılar"
 
-#: src/amo/components/Footer/index.js:213
+#: src/amo/components/Footer/index.js:203
 msgid "Products"
 msgstr "Ürünler"
 
-#: src/amo/components/Footer/index.js:289
+#: src/amo/components/Footer/index.js:279
 msgid "Privacy"
 msgstr "Gizlilik"
 
-#: src/amo/components/Footer/index.js:297
+#: src/amo/components/Footer/index.js:287
 msgid "Cookies"
 msgstr "Çerezler"
 
-#: src/amo/components/Footer/index.js:305
+#: src/amo/components/Footer/index.js:295
 msgid "Legal"
 msgstr "Yasal"
 
-#: src/amo/components/Footer/index.js:315
+#: src/amo/components/Footer/index.js:305
 msgid ""
 "Except where otherwise %(startNotedLink)snoted%(endNotedLink)s, content on "
 "this site is licensed under the %(startLicenseLink)sCreative Commons "
@@ -1124,28 +1124,24 @@ msgstr ""
 "%(startLicenseLink)sCreative Commons Attribution Share-Alike Lisansı "
 "v3.0%(endLicenseLink)s veya daha yeni sürümüyle lisanslanmıştır."
 
-#: src/amo/components/Footer/index.js:39
+#: src/amo/components/Footer/index.js:37
 msgid "Go to Mozilla's homepage"
 msgstr "Mozilla'nın ana sayfasına gidin"
 
-#: src/amo/components/Footer/index.js:69
+#: src/amo/components/Footer/index.js:63
 msgid "About"
 msgstr "Hakkında"
 
-#: src/amo/components/Footer/index.js:75
-#: src/amo/components/SectionLinks/index.js:121
+#: src/amo/components/Footer/index.js:68
+#: src/amo/components/SectionLinks/index.js:108
 msgid "Firefox Add-on Reviews"
 msgstr "Firefox eklenti incelemeleri"
 
-#: src/amo/components/Footer/index.js:76
-msgid "Blog"
-msgstr "Blog"
-
-#: src/amo/components/Footer/index.js:89 src/amo/components/Header/index.js:206
+#: src/amo/components/Footer/index.js:81 src/amo/components/Header/index.js:206
 msgid "Extension Workshop"
 msgstr "Uzantı Atölyesi"
 
-#: src/amo/components/Footer/index.js:94 src/amo/components/Header/index.js:216
+#: src/amo/components/Footer/index.js:86 src/amo/components/Header/index.js:216
 msgid "Developer Hub"
 msgstr "Geliştirici Merkezi"
 
@@ -1156,39 +1152,39 @@ msgstr ""
 "Bu eklentileri kullanmak için %(linkStart)sFirefox’u indirmeniz%(linkEnd)s "
 "gerekiyor"
 
-#: src/amo/components/GetFirefoxButton/index.js:172
+#: src/amo/components/GetFirefoxButton/index.js:167
 msgid "Download Firefox and get the theme"
 msgstr "Firefox’u indir ve temayı edin"
 
-#: src/amo/components/GetFirefoxButton/index.js:173
+#: src/amo/components/GetFirefoxButton/index.js:168
 msgid "Download Firefox and get the extension"
 msgstr "Firefox’u indir ve uzantıyı yükle"
 
-#: src/amo/components/GetFirefoxButton/index.js:177
+#: src/amo/components/GetFirefoxButton/index.js:172
 msgid "Download the new Firefox and get the theme"
 msgstr "Yeni Firefox’u indir ve temayı edin"
 
-#: src/amo/components/GetFirefoxButton/index.js:178
+#: src/amo/components/GetFirefoxButton/index.js:173
 msgid "Download the new Firefox and get the extension"
 msgstr "Yeni Firefox’u indir ve uzantıyı yükle"
 
-#: src/amo/components/GetFirefoxButton/index.js:182
+#: src/amo/components/GetFirefoxButton/index.js:177
 msgid "Download Firefox"
 msgstr "Firefox’u indir"
 
-#: src/amo/components/GetFirefoxButton/index.js:185
+#: src/amo/components/GetFirefoxButton/index.js:180
 msgid "You'll need Firefox to use this theme"
 msgstr "Bu temayı kullanmak için Firefox’a ihtiyacınız var"
 
-#: src/amo/components/GetFirefoxButton/index.js:186
+#: src/amo/components/GetFirefoxButton/index.js:181
 msgid "You'll need Firefox to use this extension"
 msgstr "Bu uzantıyı kullanmak için Firefox’a ihtiyacınız var"
 
-#: src/amo/components/GetFirefoxButton/index.js:190
+#: src/amo/components/GetFirefoxButton/index.js:185
 msgid "You need an updated version of Firefox for this theme"
 msgstr "Bu temayı kullanmak için güncel bir Firefox’a ihtiyacınız var"
 
-#: src/amo/components/GetFirefoxButton/index.js:191
+#: src/amo/components/GetFirefoxButton/index.js:186
 msgid "You need an updated version of Firefox for this extension"
 msgstr "Bu uzantıyı kullanmak için güncel bir Firefox’a ihtiyacınız var"
 
@@ -1315,7 +1311,7 @@ msgstr ""
 msgid "OK"
 msgstr "Tamam"
 
-#: src/amo/components/InstallButtonWrapper/index.js:145
+#: src/amo/components/InstallButtonWrapper/index.js:142
 msgid "Download file"
 msgstr "Dosyayı indir"
 
@@ -1919,49 +1915,49 @@ msgstr "\"%(query)s\" için sonuç bulunamadı."
 msgid "No results were found."
 msgstr "Hiç sonuç bulunamadı."
 
-#: src/amo/components/SectionLinks/index.js:104
-msgid "Dictionaries & Language Packs"
-msgstr "Sözlükler ve dil paketleri"
-
-#: src/amo/components/SectionLinks/index.js:147
+#: src/amo/components/SectionLinks/index.js:133
 msgid "Explore"
 msgstr "Keşfet"
 
-#: src/amo/components/SectionLinks/index.js:163
+#: src/amo/components/SectionLinks/index.js:149
 #: src/amo/pages/CategoryPage/index.js:66
 #: src/amo/pages/LandingPage/index.js:231
 msgid "Extensions"
 msgstr "Uzantılar"
 
-#: src/amo/components/SectionLinks/index.js:179
+#: src/amo/components/SectionLinks/index.js:165
 #: src/amo/pages/CategoryPage/index.js:60
 #: src/amo/pages/LandingPage/index.js:230
 msgid "Themes"
 msgstr "Temalar"
 
-#: src/amo/components/SectionLinks/index.js:185
+#: src/amo/components/SectionLinks/index.js:171
 msgid "More…"
 msgstr "Daha fazla…"
 
-#: src/amo/components/SectionLinks/index.js:195
+#: src/amo/components/SectionLinks/index.js:181
 msgid "Other Browser Sites"
 msgstr "Diğer tarayıcı siteleri"
 
-#: src/amo/components/SectionLinks/index.js:206
+#: src/amo/components/SectionLinks/index.js:192
 msgid "Add-ons for Android"
 msgstr "Android eklentileri"
 
-#: src/amo/components/SectionLinks/index.js:219
+#: src/amo/components/SectionLinks/index.js:205
 msgid "Add-ons for Firefox"
 msgstr "Firefox Eklentileri"
 
-#: src/amo/components/SectionLinks/index.js:87
+#: src/amo/components/SectionLinks/index.js:76
 msgid "for Firefox"
 msgstr "Firefox için"
 
-#: src/amo/components/SectionLinks/index.js:89
+#: src/amo/components/SectionLinks/index.js:78
 msgid "for Android"
 msgstr "Android için"
+
+#: src/amo/components/SectionLinks/index.js:93
+msgid "Dictionaries & Language Packs"
+msgstr "Sözlükler ve dil paketleri"
 
 #: src/amo/components/ShowMoreCard/index.js:128
 msgid "Expand to read more"
@@ -3319,6 +3315,12 @@ msgstr "eklentimin uyumluluğu yükseltilemediğinde"
 #: src/amo/utils/notifications.js:26
 msgid "my add-on's compatibility is upgraded successfully"
 msgstr "eklentimin uyumluluğu başarıyla yükseltildiğinde"
+
+#~ msgid "Developer Blog"
+#~ msgstr "Geliştirici Blog’u"
+
+#~ msgid "Blog"
+#~ msgstr "Blog"
 
 #~ msgid ""
 #~ "This add-on requires a <a href=\"%(downloadUrl)s\">newer version of "

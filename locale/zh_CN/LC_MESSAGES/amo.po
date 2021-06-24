@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: amo\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-06-15 16:03+0000\n"
+"POT-Creation-Date: 2021-06-24 13:58+0000\n"
 "PO-Revision-Date: 2021-06-09 15:20+0000\n"
 "Last-Translator: 你我皆凡人 <yuanbingyan@mail.ee>\n"
 "Language-Team: none\n"
@@ -684,7 +684,7 @@ msgid "Back to collection"
 msgstr "返回收藏集"
 
 #: src/amo/components/CollectionDetails/index.js:85
-#: src/amo/components/Footer/index.js:64
+#: src/amo/components/Footer/index.js:58
 msgid "Add-ons"
 msgstr "附加组件"
 
@@ -1044,51 +1044,51 @@ msgstr "已标记为垃圾信息"
 msgid "This contains inappropriate language"
 msgstr "这包含不当语言"
 
-#: src/amo/components/Footer/index.js:109
+#: src/amo/components/Footer/index.js:101
 msgid "Developer Policies"
 msgstr "开发者政策"
 
-#: src/amo/components/Footer/index.js:124
-msgid "Developer Blog"
-msgstr "开发者博客"
+#: src/amo/components/Footer/index.js:115
+msgid "Community Blog"
+msgstr ""
 
-#: src/amo/components/Footer/index.js:130
+#: src/amo/components/Footer/index.js:120
 msgid "Forum"
 msgstr "论坛"
 
-#: src/amo/components/Footer/index.js:138
+#: src/amo/components/Footer/index.js:128
 msgid "Report a bug"
 msgstr "报告缺陷"
 
-#: src/amo/components/Footer/index.js:143
+#: src/amo/components/Footer/index.js:133
 msgid "Review Guide"
 msgstr "评价指南"
 
-#: src/amo/components/Footer/index.js:148
+#: src/amo/components/Footer/index.js:138
 msgid "Site Status"
 msgstr "网站状态"
 
-#: src/amo/components/Footer/index.js:155
+#: src/amo/components/Footer/index.js:145
 msgid "Browsers"
 msgstr "浏览器"
 
-#: src/amo/components/Footer/index.js:213
+#: src/amo/components/Footer/index.js:203
 msgid "Products"
 msgstr "产品"
 
-#: src/amo/components/Footer/index.js:289
+#: src/amo/components/Footer/index.js:279
 msgid "Privacy"
 msgstr "隐私"
 
-#: src/amo/components/Footer/index.js:297
+#: src/amo/components/Footer/index.js:287
 msgid "Cookies"
 msgstr "Cookie"
 
-#: src/amo/components/Footer/index.js:305
+#: src/amo/components/Footer/index.js:295
 msgid "Legal"
 msgstr "法律"
 
-#: src/amo/components/Footer/index.js:315
+#: src/amo/components/Footer/index.js:305
 msgid ""
 "Except where otherwise %(startNotedLink)snoted%(endNotedLink)s, content on "
 "this site is licensed under the %(startLicenseLink)sCreative Commons "
@@ -1098,28 +1098,24 @@ msgstr ""
 "%(startLicenseLink)s知识共享 署名-相同方式共享 3.0%(endLicenseLink)s 或更新版"
 "本使用。"
 
-#: src/amo/components/Footer/index.js:39
+#: src/amo/components/Footer/index.js:37
 msgid "Go to Mozilla's homepage"
 msgstr "转至 Mozilla 主页"
 
-#: src/amo/components/Footer/index.js:69
+#: src/amo/components/Footer/index.js:63
 msgid "About"
 msgstr "关于"
 
-#: src/amo/components/Footer/index.js:75
-#: src/amo/components/SectionLinks/index.js:121
+#: src/amo/components/Footer/index.js:68
+#: src/amo/components/SectionLinks/index.js:108
 msgid "Firefox Add-on Reviews"
 msgstr "Firefox 附加组件评价"
 
-#: src/amo/components/Footer/index.js:76
-msgid "Blog"
-msgstr "博客"
-
-#: src/amo/components/Footer/index.js:89 src/amo/components/Header/index.js:206
+#: src/amo/components/Footer/index.js:81 src/amo/components/Header/index.js:206
 msgid "Extension Workshop"
 msgstr "扩展工坊"
 
-#: src/amo/components/Footer/index.js:94 src/amo/components/Header/index.js:216
+#: src/amo/components/Footer/index.js:86 src/amo/components/Header/index.js:216
 msgid "Developer Hub"
 msgstr "开发者中心"
 
@@ -1128,39 +1124,39 @@ msgid ""
 "To use these add-ons, you'll need to %(linkStart)sdownload Firefox%(linkEnd)s"
 msgstr "要使用这些附加组件，需%(linkStart)s下载 Firefox%(linkEnd)s"
 
-#: src/amo/components/GetFirefoxButton/index.js:172
+#: src/amo/components/GetFirefoxButton/index.js:167
 msgid "Download Firefox and get the theme"
 msgstr "下载 Firefox 并安装主题"
 
-#: src/amo/components/GetFirefoxButton/index.js:173
+#: src/amo/components/GetFirefoxButton/index.js:168
 msgid "Download Firefox and get the extension"
 msgstr "下载 Firefox 并安装扩展"
 
-#: src/amo/components/GetFirefoxButton/index.js:177
+#: src/amo/components/GetFirefoxButton/index.js:172
 msgid "Download the new Firefox and get the theme"
 msgstr "下载新版 Firefox 并安装主题"
 
-#: src/amo/components/GetFirefoxButton/index.js:178
+#: src/amo/components/GetFirefoxButton/index.js:173
 msgid "Download the new Firefox and get the extension"
 msgstr "下载新版 Firefox 并安装扩展"
 
-#: src/amo/components/GetFirefoxButton/index.js:182
+#: src/amo/components/GetFirefoxButton/index.js:177
 msgid "Download Firefox"
 msgstr "下载 Firefox"
 
-#: src/amo/components/GetFirefoxButton/index.js:185
+#: src/amo/components/GetFirefoxButton/index.js:180
 msgid "You'll need Firefox to use this theme"
 msgstr "您需要 Firefox 来使用此主题"
 
-#: src/amo/components/GetFirefoxButton/index.js:186
+#: src/amo/components/GetFirefoxButton/index.js:181
 msgid "You'll need Firefox to use this extension"
 msgstr "您需要 Firefox 来使用此扩展"
 
-#: src/amo/components/GetFirefoxButton/index.js:190
+#: src/amo/components/GetFirefoxButton/index.js:185
 msgid "You need an updated version of Firefox for this theme"
 msgstr "您需要更新 Firefox 来使用此主题"
 
-#: src/amo/components/GetFirefoxButton/index.js:191
+#: src/amo/components/GetFirefoxButton/index.js:186
 msgid "You need an updated version of Firefox for this extension"
 msgstr "您需要更新 Firefox 来使用此扩展"
 
@@ -1284,7 +1280,7 @@ msgstr "点击菜单中的“附加组件”来管理您的附加组件。"
 msgid "OK"
 msgstr "确定"
 
-#: src/amo/components/InstallButtonWrapper/index.js:145
+#: src/amo/components/InstallButtonWrapper/index.js:142
 msgid "Download file"
 msgstr "下载文件"
 
@@ -1853,49 +1849,49 @@ msgstr "搜索“%(query)s”没有找到结果。"
 msgid "No results were found."
 msgstr "没有找到结果。"
 
-#: src/amo/components/SectionLinks/index.js:104
-msgid "Dictionaries & Language Packs"
-msgstr "字典和语言包"
-
-#: src/amo/components/SectionLinks/index.js:147
+#: src/amo/components/SectionLinks/index.js:133
 msgid "Explore"
 msgstr "探索"
 
-#: src/amo/components/SectionLinks/index.js:163
+#: src/amo/components/SectionLinks/index.js:149
 #: src/amo/pages/CategoryPage/index.js:66
 #: src/amo/pages/LandingPage/index.js:231
 msgid "Extensions"
 msgstr "扩展"
 
-#: src/amo/components/SectionLinks/index.js:179
+#: src/amo/components/SectionLinks/index.js:165
 #: src/amo/pages/CategoryPage/index.js:60
 #: src/amo/pages/LandingPage/index.js:230
 msgid "Themes"
 msgstr "主题"
 
-#: src/amo/components/SectionLinks/index.js:185
+#: src/amo/components/SectionLinks/index.js:171
 msgid "More…"
 msgstr "更多…"
 
-#: src/amo/components/SectionLinks/index.js:195
+#: src/amo/components/SectionLinks/index.js:181
 msgid "Other Browser Sites"
 msgstr "其他浏览器网站"
 
-#: src/amo/components/SectionLinks/index.js:206
+#: src/amo/components/SectionLinks/index.js:192
 msgid "Add-ons for Android"
 msgstr "适用于 Android 的附加组件"
 
-#: src/amo/components/SectionLinks/index.js:219
+#: src/amo/components/SectionLinks/index.js:205
 msgid "Add-ons for Firefox"
 msgstr "Firefox 附加组件"
 
-#: src/amo/components/SectionLinks/index.js:87
+#: src/amo/components/SectionLinks/index.js:76
 msgid "for Firefox"
 msgstr "适用于 Firefox"
 
-#: src/amo/components/SectionLinks/index.js:89
+#: src/amo/components/SectionLinks/index.js:78
 msgid "for Android"
 msgstr "适用于 Android"
+
+#: src/amo/components/SectionLinks/index.js:93
+msgid "Dictionaries & Language Packs"
+msgstr "字典和语言包"
 
 #: src/amo/components/ShowMoreCard/index.js:128
 msgid "Expand to read more"
@@ -3158,6 +3154,12 @@ msgstr "无法升级我的附加组件的兼容性"
 #: src/amo/utils/notifications.js:26
 msgid "my add-on's compatibility is upgraded successfully"
 msgstr "我的附加组件的兼容性升级成功"
+
+#~ msgid "Developer Blog"
+#~ msgstr "开发者博客"
+
+#~ msgid "Blog"
+#~ msgstr "博客"
 
 #~ msgid ""
 #~ "This add-on requires a <a href=\"%(downloadUrl)s\">newer version of "

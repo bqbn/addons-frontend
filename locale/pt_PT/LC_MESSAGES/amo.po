@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: amo\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-06-15 16:03+0000\n"
+"POT-Creation-Date: 2021-06-24 13:58+0000\n"
 "PO-Revision-Date: 2021-06-08 00:41+0000\n"
 "Last-Translator: Cláudio Esperança <cesperanc@gmail.com>\n"
 "Language-Team: none\n"
@@ -702,7 +702,7 @@ msgid "Back to collection"
 msgstr "Retroceder para a coleção"
 
 #: src/amo/components/CollectionDetails/index.js:85
-#: src/amo/components/Footer/index.js:64
+#: src/amo/components/Footer/index.js:58
 msgid "Add-ons"
 msgstr "Extras"
 
@@ -1081,52 +1081,51 @@ msgstr "Marcado como spam"
 msgid "This contains inappropriate language"
 msgstr "Isto contém linguagem imprópria"
 
-#: src/amo/components/Footer/index.js:109
+#: src/amo/components/Footer/index.js:101
 msgid "Developer Policies"
 msgstr "Políticas de programador"
 
-#: src/amo/components/Footer/index.js:124
-#, fuzzy
-msgid "Developer Blog"
-msgstr "Central do programador"
+#: src/amo/components/Footer/index.js:115
+msgid "Community Blog"
+msgstr ""
 
-#: src/amo/components/Footer/index.js:130
+#: src/amo/components/Footer/index.js:120
 msgid "Forum"
 msgstr "Fórum"
 
-#: src/amo/components/Footer/index.js:138
+#: src/amo/components/Footer/index.js:128
 msgid "Report a bug"
 msgstr "Reportar um bug"
 
-#: src/amo/components/Footer/index.js:143
+#: src/amo/components/Footer/index.js:133
 msgid "Review Guide"
 msgstr "Guia de análise"
 
-#: src/amo/components/Footer/index.js:148
+#: src/amo/components/Footer/index.js:138
 msgid "Site Status"
 msgstr "Estado do site"
 
-#: src/amo/components/Footer/index.js:155
+#: src/amo/components/Footer/index.js:145
 msgid "Browsers"
 msgstr "Navegadores"
 
-#: src/amo/components/Footer/index.js:213
+#: src/amo/components/Footer/index.js:203
 msgid "Products"
 msgstr "Produtos"
 
-#: src/amo/components/Footer/index.js:289
+#: src/amo/components/Footer/index.js:279
 msgid "Privacy"
 msgstr "Privacidade"
 
-#: src/amo/components/Footer/index.js:297
+#: src/amo/components/Footer/index.js:287
 msgid "Cookies"
 msgstr "Cookies"
 
-#: src/amo/components/Footer/index.js:305
+#: src/amo/components/Footer/index.js:295
 msgid "Legal"
 msgstr "Informação legal"
 
-#: src/amo/components/Footer/index.js:315
+#: src/amo/components/Footer/index.js:305
 msgid ""
 "Except where otherwise %(startNotedLink)snoted%(endNotedLink)s, content on "
 "this site is licensed under the %(startLicenseLink)sCreative Commons "
@@ -1137,29 +1136,25 @@ msgstr ""
 "Creative Commons Atribuição-CompartilhaIgual v3.0%(endLicenseLink)s ou "
 "qualquer versão mais recente."
 
-#: src/amo/components/Footer/index.js:39
+#: src/amo/components/Footer/index.js:37
 msgid "Go to Mozilla's homepage"
 msgstr "Ir para a página inicial da Mozilla"
 
-#: src/amo/components/Footer/index.js:69
+#: src/amo/components/Footer/index.js:63
 msgid "About"
 msgstr "Acerca"
 
-#: src/amo/components/Footer/index.js:75
-#: src/amo/components/SectionLinks/index.js:121
+#: src/amo/components/Footer/index.js:68
+#: src/amo/components/SectionLinks/index.js:108
 #, fuzzy
 msgid "Firefox Add-on Reviews"
 msgstr "Extras do Firefox"
 
-#: src/amo/components/Footer/index.js:76
-msgid "Blog"
-msgstr "Blogue"
-
-#: src/amo/components/Footer/index.js:89 src/amo/components/Header/index.js:206
+#: src/amo/components/Footer/index.js:81 src/amo/components/Header/index.js:206
 msgid "Extension Workshop"
 msgstr "Workshop de extensões"
 
-#: src/amo/components/Footer/index.js:94 src/amo/components/Header/index.js:216
+#: src/amo/components/Footer/index.js:86 src/amo/components/Header/index.js:216
 msgid "Developer Hub"
 msgstr "Central do programador"
 
@@ -1170,42 +1165,42 @@ msgstr ""
 "Para utilizar estes extras, precisará de %(linkStart)stransferir o Firefox"
 "%(linkEnd)s"
 
-#: src/amo/components/GetFirefoxButton/index.js:172
+#: src/amo/components/GetFirefoxButton/index.js:167
 msgid "Download Firefox and get the theme"
 msgstr "Transferir o Firefox e obter o tema"
 
-#: src/amo/components/GetFirefoxButton/index.js:173
+#: src/amo/components/GetFirefoxButton/index.js:168
 msgid "Download Firefox and get the extension"
 msgstr "Transferir o Firefox e obter a extensão"
 
-#: src/amo/components/GetFirefoxButton/index.js:177
+#: src/amo/components/GetFirefoxButton/index.js:172
 #, fuzzy
 msgid "Download the new Firefox and get the theme"
 msgstr "Transferir o Firefox e obter o tema"
 
-#: src/amo/components/GetFirefoxButton/index.js:178
+#: src/amo/components/GetFirefoxButton/index.js:173
 #, fuzzy
 msgid "Download the new Firefox and get the extension"
 msgstr "Transferir o Firefox e obter a extensão"
 
-#: src/amo/components/GetFirefoxButton/index.js:182
+#: src/amo/components/GetFirefoxButton/index.js:177
 msgid "Download Firefox"
 msgstr "Transferir o Firefox"
 
-#: src/amo/components/GetFirefoxButton/index.js:185
+#: src/amo/components/GetFirefoxButton/index.js:180
 msgid "You'll need Firefox to use this theme"
 msgstr "Irá necessitar do Firefox para utilizar este tema"
 
-#: src/amo/components/GetFirefoxButton/index.js:186
+#: src/amo/components/GetFirefoxButton/index.js:181
 msgid "You'll need Firefox to use this extension"
 msgstr "Irá necessitar do Firefox para utilizar esta extensão"
 
-#: src/amo/components/GetFirefoxButton/index.js:190
+#: src/amo/components/GetFirefoxButton/index.js:185
 #, fuzzy
 msgid "You need an updated version of Firefox for this theme"
 msgstr "Irá necessitar do Firefox para utilizar este tema"
 
-#: src/amo/components/GetFirefoxButton/index.js:191
+#: src/amo/components/GetFirefoxButton/index.js:186
 #, fuzzy
 msgid "You need an updated version of Firefox for this extension"
 msgstr "Irá necessitar do Firefox para utilizar esta extensão"
@@ -1332,7 +1327,7 @@ msgstr "Gira os seus extras ao clicar em Extras no menu."
 msgid "OK"
 msgstr "OK"
 
-#: src/amo/components/InstallButtonWrapper/index.js:145
+#: src/amo/components/InstallButtonWrapper/index.js:142
 msgid "Download file"
 msgstr "Transferir ficheiro"
 
@@ -1935,49 +1930,49 @@ msgstr "Nenhuns resultados foram encontrados para \"%(query)s\"."
 msgid "No results were found."
 msgstr "Não foram encontrados resultados."
 
-#: src/amo/components/SectionLinks/index.js:104
-msgid "Dictionaries & Language Packs"
-msgstr "Dicionários e pacotes de idiomas"
-
-#: src/amo/components/SectionLinks/index.js:147
+#: src/amo/components/SectionLinks/index.js:133
 msgid "Explore"
 msgstr "Explorar"
 
-#: src/amo/components/SectionLinks/index.js:163
+#: src/amo/components/SectionLinks/index.js:149
 #: src/amo/pages/CategoryPage/index.js:66
 #: src/amo/pages/LandingPage/index.js:231
 msgid "Extensions"
 msgstr "Extensões"
 
-#: src/amo/components/SectionLinks/index.js:179
+#: src/amo/components/SectionLinks/index.js:165
 #: src/amo/pages/CategoryPage/index.js:60
 #: src/amo/pages/LandingPage/index.js:230
 msgid "Themes"
 msgstr "Temas"
 
-#: src/amo/components/SectionLinks/index.js:185
+#: src/amo/components/SectionLinks/index.js:171
 msgid "More…"
 msgstr "Mais…"
 
-#: src/amo/components/SectionLinks/index.js:195
+#: src/amo/components/SectionLinks/index.js:181
 msgid "Other Browser Sites"
 msgstr "Outros sites de navegadores"
 
-#: src/amo/components/SectionLinks/index.js:206
+#: src/amo/components/SectionLinks/index.js:192
 msgid "Add-ons for Android"
 msgstr "Extras para Android"
 
-#: src/amo/components/SectionLinks/index.js:219
+#: src/amo/components/SectionLinks/index.js:205
 msgid "Add-ons for Firefox"
 msgstr "Extras para o Firefox"
 
-#: src/amo/components/SectionLinks/index.js:87
+#: src/amo/components/SectionLinks/index.js:76
 msgid "for Firefox"
 msgstr "para o Firefox"
 
-#: src/amo/components/SectionLinks/index.js:89
+#: src/amo/components/SectionLinks/index.js:78
 msgid "for Android"
 msgstr "para Android"
+
+#: src/amo/components/SectionLinks/index.js:93
+msgid "Dictionaries & Language Packs"
+msgstr "Dicionários e pacotes de idiomas"
 
 #: src/amo/components/ShowMoreCard/index.js:128
 msgid "Expand to read more"
@@ -3324,6 +3319,13 @@ msgstr "a compatibilidade do meu extra não pode ser atualizada"
 #: src/amo/utils/notifications.js:26
 msgid "my add-on's compatibility is upgraded successfully"
 msgstr "a compatibilidade do meu extra é atualizada com sucesso"
+
+#, fuzzy
+#~ msgid "Developer Blog"
+#~ msgstr "Central do programador"
+
+#~ msgid "Blog"
+#~ msgstr "Blogue"
 
 #~ msgid ""
 #~ "This add-on requires a <a href=\"%(downloadUrl)s\">newer version of "

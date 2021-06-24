@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: amo\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-06-15 16:03+0000\n"
+"POT-Creation-Date: 2021-06-24 13:58+0000\n"
 "PO-Revision-Date: 2021-01-30 18:44+0000\n"
 "Last-Translator: Aman Alam <amanpreet.alam@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -693,7 +693,7 @@ msgid "Back to collection"
 msgstr "ਸੰਗ੍ਰਹਿ ਉੱਤੇ ਵਾਪਸ ਜਾਓ"
 
 #: src/amo/components/CollectionDetails/index.js:85
-#: src/amo/components/Footer/index.js:64
+#: src/amo/components/Footer/index.js:58
 msgid "Add-ons"
 msgstr "ਐਡ-ਆਨ"
 
@@ -1073,52 +1073,51 @@ msgstr "ਸਪੈਮ ਦੇ ਰੂਪ ਵਿੱਚ ਨਿਸ਼ਾਨਬੱਧ ਕ�
 msgid "This contains inappropriate language"
 msgstr "ਇਸ ਵਿੱਚ ਅਣਉਚਿਤ ਭਾਸ਼ਾ ਸ਼ਾਮਲ ਹੈ"
 
-#: src/amo/components/Footer/index.js:109
+#: src/amo/components/Footer/index.js:101
 msgid "Developer Policies"
 msgstr "ਵਿਕਾਸਕਾਰ ਦੀਆਂ ਨੀਤੀਆਂ"
 
-#: src/amo/components/Footer/index.js:124
-#, fuzzy
-msgid "Developer Blog"
-msgstr "ਡਿਵੈਲਪਰ ਹੱਬ"
+#: src/amo/components/Footer/index.js:115
+msgid "Community Blog"
+msgstr ""
 
-#: src/amo/components/Footer/index.js:130
+#: src/amo/components/Footer/index.js:120
 msgid "Forum"
 msgstr "ਫ਼ੋਰਮ"
 
-#: src/amo/components/Footer/index.js:138
+#: src/amo/components/Footer/index.js:128
 msgid "Report a bug"
 msgstr "ਬੱਗ ਦੀ ਰਿਪੋਰਟ ਕਰੋ"
 
-#: src/amo/components/Footer/index.js:143
+#: src/amo/components/Footer/index.js:133
 msgid "Review Guide"
 msgstr "ਸਮੀਖਿਅਕ ਗਾਈਡ"
 
-#: src/amo/components/Footer/index.js:148
+#: src/amo/components/Footer/index.js:138
 msgid "Site Status"
 msgstr "ਸਾਈਟ ਸਥਿਤੀ"
 
-#: src/amo/components/Footer/index.js:155
+#: src/amo/components/Footer/index.js:145
 msgid "Browsers"
 msgstr "ਬਰਾਊਜ਼ਰ"
 
-#: src/amo/components/Footer/index.js:213
+#: src/amo/components/Footer/index.js:203
 msgid "Products"
 msgstr "ਪ੍ਰੋਡੱਕਟ"
 
-#: src/amo/components/Footer/index.js:289
+#: src/amo/components/Footer/index.js:279
 msgid "Privacy"
 msgstr "ਪਰਦੇਦਾਰੀ"
 
-#: src/amo/components/Footer/index.js:297
+#: src/amo/components/Footer/index.js:287
 msgid "Cookies"
 msgstr "ਕੂਕੀਜ਼"
 
-#: src/amo/components/Footer/index.js:305
+#: src/amo/components/Footer/index.js:295
 msgid "Legal"
 msgstr "ਕਾਨੂੰਨੀ"
 
-#: src/amo/components/Footer/index.js:315
+#: src/amo/components/Footer/index.js:305
 msgid ""
 "Except where otherwise %(startNotedLink)snoted%(endNotedLink)s, content on "
 "this site is licensed under the %(startLicenseLink)sCreative Commons "
@@ -1128,29 +1127,25 @@ msgstr ""
 "%(startLicenseLink)s ਕਰੀਏਟਿਵ ਕਾਮਨਜ਼ ਐਟ੍ਰੀਬਿ ਸ਼ੇਅਰ-ਅਲੀਕ ਲਾਇਸੈਂਸ "
 "v3.0%(endLicenseLink)s s ਜਾਂ ਕਿਸੇ ਵੀ ਅਗਲੇ ਵਰਜਨ ਦੇ ਅਧੀਨ ਲਾਇਸੰਸਸ਼ੁਦਾ ਕੀਤਾ ਗਿਆ ਹੈ।"
 
-#: src/amo/components/Footer/index.js:39
+#: src/amo/components/Footer/index.js:37
 msgid "Go to Mozilla's homepage"
 msgstr "ਮੋਜ਼ੀਲਾ ਮੁੱਖ ਸਫ਼ੇ ਉਤੇ ਜਾਓ"
 
-#: src/amo/components/Footer/index.js:69
+#: src/amo/components/Footer/index.js:63
 msgid "About"
 msgstr "ਇਸ ਬਾਰੇ"
 
-#: src/amo/components/Footer/index.js:75
-#: src/amo/components/SectionLinks/index.js:121
+#: src/amo/components/Footer/index.js:68
+#: src/amo/components/SectionLinks/index.js:108
 #, fuzzy
 msgid "Firefox Add-on Reviews"
 msgstr "ਫਾਇਰਫਾਕਸ ਐਡ-ਆਨ"
 
-#: src/amo/components/Footer/index.js:76
-msgid "Blog"
-msgstr "ਬਲੌਗ"
-
-#: src/amo/components/Footer/index.js:89 src/amo/components/Header/index.js:206
+#: src/amo/components/Footer/index.js:81 src/amo/components/Header/index.js:206
 msgid "Extension Workshop"
 msgstr "ਇਕਸਟੈਨਸ਼ਨ ਵਰਕਸ਼ਾਪ"
 
-#: src/amo/components/Footer/index.js:94 src/amo/components/Header/index.js:216
+#: src/amo/components/Footer/index.js:86 src/amo/components/Header/index.js:216
 msgid "Developer Hub"
 msgstr "ਡਿਵੈਲਪਰ ਹੱਬ"
 
@@ -1159,45 +1154,45 @@ msgid ""
 "To use these add-ons, you'll need to %(linkStart)sdownload Firefox%(linkEnd)s"
 msgstr ""
 
-#: src/amo/components/GetFirefoxButton/index.js:172
+#: src/amo/components/GetFirefoxButton/index.js:167
 #, fuzzy
 msgid "Download Firefox and get the theme"
 msgstr "ਫਾਇਰਫਾਕਸ ਡਾਊਨਲੋਡ ਕਰੋ"
 
-#: src/amo/components/GetFirefoxButton/index.js:173
+#: src/amo/components/GetFirefoxButton/index.js:168
 msgid "Download Firefox and get the extension"
 msgstr ""
 
-#: src/amo/components/GetFirefoxButton/index.js:177
+#: src/amo/components/GetFirefoxButton/index.js:172
 #, fuzzy
 msgid "Download the new Firefox and get the theme"
 msgstr "ਫਾਇਰਫਾਕਸ ਡਾਊਨਲੋਡ ਕਰੋ"
 
-#: src/amo/components/GetFirefoxButton/index.js:178
+#: src/amo/components/GetFirefoxButton/index.js:173
 #, fuzzy
 msgid "Download the new Firefox and get the extension"
 msgstr "ਫਾਇਰਫਾਕਸ ਡਾਊਨਲੋਡ ਕਰੋ"
 
-#: src/amo/components/GetFirefoxButton/index.js:182
+#: src/amo/components/GetFirefoxButton/index.js:177
 msgid "Download Firefox"
 msgstr "ਫਾਇਰਫਾਕਸ ਡਾਊਨਲੋਡ ਕਰੋ"
 
-#: src/amo/components/GetFirefoxButton/index.js:185
+#: src/amo/components/GetFirefoxButton/index.js:180
 #, fuzzy
 msgid "You'll need Firefox to use this theme"
 msgstr "ਇਸ ਥੀਮ ਨੂੰ ਦਰਜਾ ਦੇਣ ਲਈ ਲਾਗਇਨ ਕਰੋ"
 
-#: src/amo/components/GetFirefoxButton/index.js:186
+#: src/amo/components/GetFirefoxButton/index.js:181
 #, fuzzy
 msgid "You'll need Firefox to use this extension"
 msgstr "ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਦਰਜਾ ਦੇਣ ਲਈ ਲਾਗਇਨ ਕਰੋ"
 
-#: src/amo/components/GetFirefoxButton/index.js:190
+#: src/amo/components/GetFirefoxButton/index.js:185
 #, fuzzy
 msgid "You need an updated version of Firefox for this theme"
 msgstr "ਇਸ ਥੀਮ ਨੂੰ ਦਰਜਾ ਦੇਣ ਲਈ ਲਾਗਇਨ ਕਰੋ"
 
-#: src/amo/components/GetFirefoxButton/index.js:191
+#: src/amo/components/GetFirefoxButton/index.js:186
 #, fuzzy
 msgid "You need an updated version of Firefox for this extension"
 msgstr "ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਦਰਜਾ ਦੇਣ ਲਈ ਲਾਗਇਨ ਕਰੋ"
@@ -1326,7 +1321,7 @@ msgstr "ਮੀਨੂ ਵਿੱਚ ਐਡ-ਆਨ ਕਲਿਕ ਕਰਕੇ ਆਪ
 msgid "OK"
 msgstr "ਠੀਕ ਹੈ"
 
-#: src/amo/components/InstallButtonWrapper/index.js:145
+#: src/amo/components/InstallButtonWrapper/index.js:142
 #, fuzzy
 msgid "Download file"
 msgstr "ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
@@ -1931,49 +1926,49 @@ msgstr "\"%(query)s\" ਲਈ ਕੋਈ ਨਤੀਜਾ ਨਹੀਂ ਮਿਲਿ
 msgid "No results were found."
 msgstr "ਕੋਈ ਨਤੀਜਾ ਨਹੀਂ ਮਿਲਿਆ।"
 
-#: src/amo/components/SectionLinks/index.js:104
-msgid "Dictionaries & Language Packs"
-msgstr "ਸ਼ਬਦ-ਕੋਸ਼ ਅਤੇ ਭਾਸ਼ਾ ਪੈਕ"
-
-#: src/amo/components/SectionLinks/index.js:147
+#: src/amo/components/SectionLinks/index.js:133
 msgid "Explore"
 msgstr "ਪੜਚੋਲ"
 
-#: src/amo/components/SectionLinks/index.js:163
+#: src/amo/components/SectionLinks/index.js:149
 #: src/amo/pages/CategoryPage/index.js:66
 #: src/amo/pages/LandingPage/index.js:231
 msgid "Extensions"
 msgstr "ਇਕਸਟੈਨਸ਼ਨ"
 
-#: src/amo/components/SectionLinks/index.js:179
+#: src/amo/components/SectionLinks/index.js:165
 #: src/amo/pages/CategoryPage/index.js:60
 #: src/amo/pages/LandingPage/index.js:230
 msgid "Themes"
 msgstr "ਥੀਮ"
 
-#: src/amo/components/SectionLinks/index.js:185
+#: src/amo/components/SectionLinks/index.js:171
 msgid "More…"
 msgstr "…ਹੋਰ"
 
-#: src/amo/components/SectionLinks/index.js:195
+#: src/amo/components/SectionLinks/index.js:181
 msgid "Other Browser Sites"
 msgstr "ਹੋਰ ਬਰਾਊਜ਼ਰ ਸਾਈਟਾਂ"
 
-#: src/amo/components/SectionLinks/index.js:206
+#: src/amo/components/SectionLinks/index.js:192
 msgid "Add-ons for Android"
 msgstr "ਐਂਡਰਾਇਡ ਲਈ ਐਡ-ਆਨ"
 
-#: src/amo/components/SectionLinks/index.js:219
+#: src/amo/components/SectionLinks/index.js:205
 msgid "Add-ons for Firefox"
 msgstr "ਫਾਇਰਫਾਕਸ ਲਈ ਐਡ-ਆਨ"
 
-#: src/amo/components/SectionLinks/index.js:87
+#: src/amo/components/SectionLinks/index.js:76
 msgid "for Firefox"
 msgstr "ਫਾਇਰਫਾਕਸ ਲਈ"
 
-#: src/amo/components/SectionLinks/index.js:89
+#: src/amo/components/SectionLinks/index.js:78
 msgid "for Android"
 msgstr "ਐਂਡਰਾਈਡ ਲਈ"
+
+#: src/amo/components/SectionLinks/index.js:93
+msgid "Dictionaries & Language Packs"
+msgstr "ਸ਼ਬਦ-ਕੋਸ਼ ਅਤੇ ਭਾਸ਼ਾ ਪੈਕ"
 
 #: src/amo/components/ShowMoreCard/index.js:128
 msgid "Expand to read more"
@@ -3273,6 +3268,13 @@ msgstr "ਮੇਰੇ ਐਡ-ਆਨ ਦੀ ਅਨੁਕੂਲਤਾ ਅੱਪਗ�
 #: src/amo/utils/notifications.js:26
 msgid "my add-on's compatibility is upgraded successfully"
 msgstr "ਮੇਰੇ ਐਡ-ਆਨ ਦੀ ਅਨੁਕੂਲਤਾ ਸਫ਼ਲਤਾਪੂਰਨ ਅੱਪਗਰੇਡ ਹੋਈ"
+
+#, fuzzy
+#~ msgid "Developer Blog"
+#~ msgstr "ਡਿਵੈਲਪਰ ਹੱਬ"
+
+#~ msgid "Blog"
+#~ msgstr "ਬਲੌਗ"
 
 #~ msgid ""
 #~ "This add-on requires a <a href=\"%(downloadUrl)s\">newer version of "

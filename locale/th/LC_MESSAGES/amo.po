@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: amo\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-06-15 16:03+0000\n"
+"POT-Creation-Date: 2021-06-24 13:58+0000\n"
 "PO-Revision-Date: 2021-03-31 07:47+0000\n"
 "Last-Translator: aefgh39622@gmail.com <aefgh39622@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -680,7 +680,7 @@ msgid "Back to collection"
 msgstr "กลับไปที่ชุดสะสม"
 
 #: src/amo/components/CollectionDetails/index.js:85
-#: src/amo/components/Footer/index.js:64
+#: src/amo/components/Footer/index.js:58
 msgid "Add-ons"
 msgstr "ส่วนเสริม"
 
@@ -1033,52 +1033,51 @@ msgstr "ตั้งค่าสถานะเป็นสแปมแล้ว
 msgid "This contains inappropriate language"
 msgstr "นี่ประกอบด้วยภาษาที่ไม่เหมาะสม"
 
-#: src/amo/components/Footer/index.js:109
+#: src/amo/components/Footer/index.js:101
 msgid "Developer Policies"
 msgstr "นโยบายนักพัฒนา"
 
-#: src/amo/components/Footer/index.js:124
-#, fuzzy
-msgid "Developer Blog"
-msgstr "ศูนย์กลางนักพัฒนา"
+#: src/amo/components/Footer/index.js:115
+msgid "Community Blog"
+msgstr ""
 
-#: src/amo/components/Footer/index.js:130
+#: src/amo/components/Footer/index.js:120
 msgid "Forum"
 msgstr "กระดานสนทนา"
 
-#: src/amo/components/Footer/index.js:138
+#: src/amo/components/Footer/index.js:128
 msgid "Report a bug"
 msgstr "รายงานข้อบกพร่อง"
 
-#: src/amo/components/Footer/index.js:143
+#: src/amo/components/Footer/index.js:133
 msgid "Review Guide"
 msgstr "คู่มือบทวิจารณ์"
 
-#: src/amo/components/Footer/index.js:148
+#: src/amo/components/Footer/index.js:138
 msgid "Site Status"
 msgstr "สถานะไซต์"
 
-#: src/amo/components/Footer/index.js:155
+#: src/amo/components/Footer/index.js:145
 msgid "Browsers"
 msgstr "เบราว์เซอร์"
 
-#: src/amo/components/Footer/index.js:213
+#: src/amo/components/Footer/index.js:203
 msgid "Products"
 msgstr "ผลิตภัณฑ์"
 
-#: src/amo/components/Footer/index.js:289
+#: src/amo/components/Footer/index.js:279
 msgid "Privacy"
 msgstr "ความเป็นส่วนตัว"
 
-#: src/amo/components/Footer/index.js:297
+#: src/amo/components/Footer/index.js:287
 msgid "Cookies"
 msgstr "คุกกี้"
 
-#: src/amo/components/Footer/index.js:305
+#: src/amo/components/Footer/index.js:295
 msgid "Legal"
 msgstr "ข้อกฎหมาย"
 
-#: src/amo/components/Footer/index.js:315
+#: src/amo/components/Footer/index.js:305
 msgid ""
 "Except where otherwise %(startNotedLink)snoted%(endNotedLink)s, content on "
 "this site is licensed under the %(startLicenseLink)sCreative Commons "
@@ -1088,29 +1087,25 @@ msgstr ""
 "%(startLicenseLink)sสัญญาอนุญาต Creative Commons แบบแสดงที่มา อนุญาตแบบเดียวกัน "
 "v3.0%(endLicenseLink)s หรือรุ่นใดก็ตามหลังจากนั้น"
 
-#: src/amo/components/Footer/index.js:39
+#: src/amo/components/Footer/index.js:37
 msgid "Go to Mozilla's homepage"
 msgstr "ไปยังหน้าแรกของ Mozilla"
 
-#: src/amo/components/Footer/index.js:69
+#: src/amo/components/Footer/index.js:63
 msgid "About"
 msgstr "เกี่ยวกับ"
 
-#: src/amo/components/Footer/index.js:75
-#: src/amo/components/SectionLinks/index.js:121
+#: src/amo/components/Footer/index.js:68
+#: src/amo/components/SectionLinks/index.js:108
 #, fuzzy
 msgid "Firefox Add-on Reviews"
 msgstr "Firefox Add-ons"
 
-#: src/amo/components/Footer/index.js:76
-msgid "Blog"
-msgstr "บล็อก"
-
-#: src/amo/components/Footer/index.js:89 src/amo/components/Header/index.js:206
+#: src/amo/components/Footer/index.js:81 src/amo/components/Header/index.js:206
 msgid "Extension Workshop"
 msgstr "Extension Workshop"
 
-#: src/amo/components/Footer/index.js:94 src/amo/components/Header/index.js:216
+#: src/amo/components/Footer/index.js:86 src/amo/components/Header/index.js:216
 msgid "Developer Hub"
 msgstr "ศูนย์กลางนักพัฒนา"
 
@@ -1119,45 +1114,45 @@ msgid ""
 "To use these add-ons, you'll need to %(linkStart)sdownload Firefox%(linkEnd)s"
 msgstr ""
 
-#: src/amo/components/GetFirefoxButton/index.js:172
+#: src/amo/components/GetFirefoxButton/index.js:167
 #, fuzzy
 msgid "Download Firefox and get the theme"
 msgstr "ดาวน์โหลด Firefox"
 
-#: src/amo/components/GetFirefoxButton/index.js:173
+#: src/amo/components/GetFirefoxButton/index.js:168
 msgid "Download Firefox and get the extension"
 msgstr ""
 
-#: src/amo/components/GetFirefoxButton/index.js:177
+#: src/amo/components/GetFirefoxButton/index.js:172
 #, fuzzy
 msgid "Download the new Firefox and get the theme"
 msgstr "ดาวน์โหลด Firefox"
 
-#: src/amo/components/GetFirefoxButton/index.js:178
+#: src/amo/components/GetFirefoxButton/index.js:173
 #, fuzzy
 msgid "Download the new Firefox and get the extension"
 msgstr "ดาวน์โหลด Firefox"
 
-#: src/amo/components/GetFirefoxButton/index.js:182
+#: src/amo/components/GetFirefoxButton/index.js:177
 msgid "Download Firefox"
 msgstr "ดาวน์โหลด Firefox"
 
-#: src/amo/components/GetFirefoxButton/index.js:185
+#: src/amo/components/GetFirefoxButton/index.js:180
 #, fuzzy
 msgid "You'll need Firefox to use this theme"
 msgstr "เข้าสู่ระบบเพื่อให้คะแนนชุดตกแต่งนี้"
 
-#: src/amo/components/GetFirefoxButton/index.js:186
+#: src/amo/components/GetFirefoxButton/index.js:181
 #, fuzzy
 msgid "You'll need Firefox to use this extension"
 msgstr "เข้าสู่ระบบเพื่อให้คะแนนส่วนขยายนี้"
 
-#: src/amo/components/GetFirefoxButton/index.js:190
+#: src/amo/components/GetFirefoxButton/index.js:185
 #, fuzzy
 msgid "You need an updated version of Firefox for this theme"
 msgstr "เข้าสู่ระบบเพื่อให้คะแนนชุดตกแต่งนี้"
 
-#: src/amo/components/GetFirefoxButton/index.js:191
+#: src/amo/components/GetFirefoxButton/index.js:186
 #, fuzzy
 msgid "You need an updated version of Firefox for this extension"
 msgstr "เข้าสู่ระบบเพื่อให้คะแนนส่วนขยายนี้"
@@ -1284,7 +1279,7 @@ msgstr "จัดการส่วนเสริมของคุณโดย
 msgid "OK"
 msgstr "ตกลง"
 
-#: src/amo/components/InstallButtonWrapper/index.js:145
+#: src/amo/components/InstallButtonWrapper/index.js:142
 #, fuzzy
 msgid "Download file"
 msgstr "กำลังดาวน์โหลด"
@@ -1869,49 +1864,49 @@ msgstr "ไม่พบผลลัพธ์สำหรับ \"%(query)s\""
 msgid "No results were found."
 msgstr "ไม่พบผลลัพธ์"
 
-#: src/amo/components/SectionLinks/index.js:104
-msgid "Dictionaries & Language Packs"
-msgstr "พจนานุกรมและชุดภาษา"
-
-#: src/amo/components/SectionLinks/index.js:147
+#: src/amo/components/SectionLinks/index.js:133
 msgid "Explore"
 msgstr "สำรวจ"
 
-#: src/amo/components/SectionLinks/index.js:163
+#: src/amo/components/SectionLinks/index.js:149
 #: src/amo/pages/CategoryPage/index.js:66
 #: src/amo/pages/LandingPage/index.js:231
 msgid "Extensions"
 msgstr "ส่วนขยาย"
 
-#: src/amo/components/SectionLinks/index.js:179
+#: src/amo/components/SectionLinks/index.js:165
 #: src/amo/pages/CategoryPage/index.js:60
 #: src/amo/pages/LandingPage/index.js:230
 msgid "Themes"
 msgstr "ชุดตกแต่ง"
 
-#: src/amo/components/SectionLinks/index.js:185
+#: src/amo/components/SectionLinks/index.js:171
 msgid "More…"
 msgstr "เพิ่มเติม…"
 
-#: src/amo/components/SectionLinks/index.js:195
+#: src/amo/components/SectionLinks/index.js:181
 msgid "Other Browser Sites"
 msgstr "ไซต์ของเบราว์เซอร์อื่น ๆ"
 
-#: src/amo/components/SectionLinks/index.js:206
+#: src/amo/components/SectionLinks/index.js:192
 msgid "Add-ons for Android"
 msgstr "ส่วนเสริมสำหรับ Android"
 
-#: src/amo/components/SectionLinks/index.js:219
+#: src/amo/components/SectionLinks/index.js:205
 msgid "Add-ons for Firefox"
 msgstr "ส่วนเสริมสำหรับ Firefox"
 
-#: src/amo/components/SectionLinks/index.js:87
+#: src/amo/components/SectionLinks/index.js:76
 msgid "for Firefox"
 msgstr "สำหรับ Firefox"
 
-#: src/amo/components/SectionLinks/index.js:89
+#: src/amo/components/SectionLinks/index.js:78
 msgid "for Android"
 msgstr "สำหรับ Android"
+
+#: src/amo/components/SectionLinks/index.js:93
+msgid "Dictionaries & Language Packs"
+msgstr "พจนานุกรมและชุดภาษา"
 
 #: src/amo/components/ShowMoreCard/index.js:128
 msgid "Expand to read more"
@@ -3100,6 +3095,13 @@ msgstr "ไม่สามารถอัปเกรดความเข้า
 #: src/amo/utils/notifications.js:26
 msgid "my add-on's compatibility is upgraded successfully"
 msgstr "อัปเกรดความเข้ากันได้ของส่วนเสริมของฉันสำเร็จ"
+
+#, fuzzy
+#~ msgid "Developer Blog"
+#~ msgstr "ศูนย์กลางนักพัฒนา"
+
+#~ msgid "Blog"
+#~ msgstr "บล็อก"
 
 #~ msgid ""
 #~ "This add-on requires a <a href=\"%(downloadUrl)s\">newer version of "
